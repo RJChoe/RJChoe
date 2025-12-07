@@ -1,10 +1,22 @@
 # 👋 Hello, I'm Rebecca J Simpson
 
-### 💡 Software Developer | Python & Django Specialist
+### 💡 Junior Software Developer | Python, Django, & REST API Development
 
-Results-driven Junior Software Developer specializing in **Python** and **Django** framework. I engineer efficient, scalable, and user-centric web applications by prioritizing data integrity, code maintainability, and robust version control using Git/GitHub.
+Results-driven Junior Software Developer specializing in the Pythonlanguage and Django framework. I engineer efficient, scalable, and user-centric web applications by prioritizing data integrity and codemaintainability.
 
-I am actively seeking software development roles to contribute to impactful projects, leverage and refine my expertise in backend development, API design, and deployment, and thrive within a collaborative engineering team.
+My technical foundation is rooted in modern Software DevelopmentLifecycle (SDLC) fundamentals, including Object-OrientedProgramming (OOP), Unit Testing (Pytest), SQL/PostgreSQL, and robust version control using Git/GitHub. I've also completed training and practical exercises in AWS cloud computing. 
+
+Applied Expertise: Skincare Filter Web Application
+Current application of skills in the comprehensive development of a Skincare Filter Web Application:
+
+Design and connect the Django backend with dual database systems (SQLite for development, targeting PostgreSQL for production readiness).
+
+Analyze and process cosmetic ingredients against user input todetect potential allergens. Focus on performance by building dynamic UI components, integrating data validation, and defining API structures to ensure high data integrity and scalability.
+
+Transferable Skills & Goal
+I leverage prior high-precision operational experience to excel at analyzing complex processes, optimizing workflows, and ensuring quality and accuracy under pressure.
+
+I am actively seeking entry-level software development roles to contribute to impactful projects, refine my expertise in backend and API design, and thrive within a collaborative engineering team.
 
 ---
 
@@ -47,13 +59,15 @@ Proficient and actively building expertise in the following tools and technologi
 
 ### 🚀 Featured Projects & Current Focus
 
-#### 1. Skincare Filter Web Application (Ongoing Personal Project)
-> **Goal:** Develop a user-focused web application that analyzes cosmetic ingredients against potential allergens based on user input.
+#### 1. Skincare Filter Web Application (Ongoing Personal Project:  Python | Django | Full-Stack)
+> **Goal:** Architected and developed a full-stack web application using Python, Django, and Django REST Framework to provide users with an intelligent cosmetic allergen detection system.
 >
-> * Designed and implemented a Django backend with a relational SQLite development database for data integrity. PostgreSQL for production.
-> * Integrated data validation and built API structures to support scalability and performance.
-> * Currently focused on refining front-end components and optimizing backend performance.
-> * **Tech Stack:** Python, Django, SQLite (PostgreSQL), HTML, CSS
+> * Engineered the robust Django backend to handle ingredient parsing, complex allergen detection logic, and secure user data management.
+> * Designed and maintained efficient relational database models (initially SQLite, targeting PostgreSQL for production) to optimize data storage and retrieval performance.
+> * Defined and implemented internal API structures and comprehensive data validation routines to ensure scalability, data integrity, and system reliability.
+> * Managed the entire development lifecycle, applying Git/GitHub for robust version control, collaborative workflow, and issue tracking.
+> * Currently optimizing front-end components and refining backend performance with a focus on deployment readiness (e.g., integrating SSL/TLS and CI/CD awareness).
+> * **Core Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, SQLite, HTML/CSS, Git/GitHub, VS Code
 
 <!--
 All projects are built with **full CI/CD pipelines** using **GitHub Actions** for automated testing and deployment.
@@ -62,13 +76,15 @@ All projects are built with **full CI/CD pipelines** using **GitHub Actions** fo
     > *Focus: Implementing unit tests (Jest) and automatically deploying a static site to GitHub Pages upon merge to 'main'.*
 -->
 
-#### 2. Desktop Quote GUI Application (Harvard CS50 Project)
-> **Goal:** Developed a desktop shell application that retrieves and displays quotes dynamically based on user-input keywords.
+#### 2. Desktop Quote GUI Application (Harvard CS50 Project: Python | API Integration | Unit Tested)
+> **Goal:** Engineered the front-end GUI architecture (Tkinter) to enable intuitive keyword input and dynamic quote display for a desktop shell application.
 >
-> * Implemented REST API integration to fetch quote data from JSON endpoints.
-> * Created custom unit tests to verify functionality and ensure application reliability.
-> * Applied object-oriented programming (OOP) and modular design for maintainability.
-> * **Tech Stack:** Python, nitk, REST APIs, JSON, Tkinter 
+> * Implemented robust REST API integration to efficiently fetch and process quote data from external JSON endpoints.
+> * Authored and executed custom unit tests to rigorously verify core functionality, ensuring high application reliability and data accuracy.
+> * Applied Object-Oriented Programming (OOP) and modular design principles to improve code readability, maintainability, and system scalability.
+> * Utilized the nltk Python library for efficient keyword parsing and implemented exception handling for a robust and reliable user experience.
+> * Managed the entire development workflow using Git/GitHub and VS Code for version control and issue tracking.
+> * **Core Tech Stack:** Python, REST APIs, JSON, Tkinter, nltk, Unit Testing, Git/GitHub, VS Code 
 
 ---
 
