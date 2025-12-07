@@ -10,7 +10,7 @@ I am actively seeking software development roles to contribute to impactful proj
 
 ### 💻 My Current Tech Stack & Professional Focus
 
-I am proficient and actively building expertise in the following tools and technologies:
+Proficient and actively building expertise in the following tools and technologies:
 <!--
 | **DevOps & Workflow** | **GitHub Actions (CI/CD)**, Git, Docker (Basic) |
 -->
