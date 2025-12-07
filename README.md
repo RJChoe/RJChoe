@@ -6,14 +6,15 @@ Results-driven Junior Software Developer specializing in the Python language and
 
 My technical foundation is rooted in modern Software Development Lifecycle (SDLC) fundamentals, including Object-Oriented Programming (OOP), Unit Testing (Pytest), SQL/PostgreSQL, and robust version control using Git/GitHub. I've also completed training and practical exercises in AWS cloud computing. 
 
-Applied Expertise: Skincare Filter Web Application
+#### Applied Expertise: Skincare Filter Web Application
 Current application of skills in the comprehensive development of a Skincare Filter Web Application:
 
-Design and connect the Django backend with dual database systems (SQLite for development, targeting PostgreSQL for production readiness).
+* Design and connect the Django backend with dual database systems (SQLite for development, targeting PostgreSQL for production readiness).
 
-Analyze and process cosmetic ingredients against user input todetect potential allergens. Focus on performance by building dynamic UI components, integrating data validation, and defining API structures to ensure high data integrity and scalability.
+* Analyze and process cosmetic ingredients against user input todetect potential allergens. Focus on performance by building dynamic UI components, integrating data validation, and defining API structures to ensure high data integrity and scalability.
 
-Transferable Skills & Goal
+#### Transferable Skills & Goal
+
 Leveraging prior high-precision operational experience to excel at analyzing complex processes, optimizing workflows, and ensuring quality and accuracy under pressure.
 
 I am actively seeking entry-level software development roles to contribute to impactful projects, refine my expertise in backend and API design, and thrive within a collaborative engineering team.
