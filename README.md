@@ -31,9 +31,7 @@ I am proficient and actively building expertise in the following tools and techn
     <img src="https://img.shields.io/badge/OOP-1C4D78?style=for-the-badge&logo=python&logoColor=white" alt="Object-Oriented Programming Badge"/>
     <img src="https://img.shields.io/badge/Unit%20Testing-3776AB?style=for-the-badge&logo=pytest&logoColor=white" alt="Unit Testing Badge"/>
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <!--
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    -->
 </p>
 
 <!--
