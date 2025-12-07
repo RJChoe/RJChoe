@@ -11,7 +11,9 @@ Current application of skills in the comprehensive development of a Skincare Fil
 
 * Design and connect the Django backend with dual database systems (SQLite for development, targeting PostgreSQL for production readiness).
 
-* Analyze and process cosmetic ingredients against user input todetect potential allergens. Focus on performance by building dynamic UI components, integrating data validation, and defining API structures to ensure high data integrity and scalability.
+* Analyze and process cosmetic ingredients against user input todetect potential allergens.
+
+* Focus on performance by building dynamic UI components, integrating data validation, and defining API structures to ensure high data integrity and scalability.
 
 #### Transferable Skills & Goal
 
