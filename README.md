@@ -2,9 +2,9 @@
 
 ### 💡 Software Developer | Python & Django Specialist
 
-I am a results-oriented junior software developer specializing in **Python** and **Django**. My passion is building efficient, scalable, and user-focused web applications. I approach every project with a focus on data integrity, maintainability, and applying version control through Git/GitHub.
+Results-driven Junior Software Developer specializing in **Python** and **Django** framework. I engineer efficient, scalable, and user-centric web applications by prioritizing data integrity, code maintainability, and robust version control using Git/GitHub.
 
-I am actively seeking software development roles where I can contribute to meaningful projects, refine my backend and API development skills, and grow within a collaborative engineering team.
+I am actively seeking software development roles to contribute to impactful projects, leverage and refine my expertise in backend development, API design, and deployment, and thrive within a collaborative engineering team.
 
 ---
 
