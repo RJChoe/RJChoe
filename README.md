@@ -2,9 +2,9 @@
 
 ### 💡 Junior Software Developer | Python, Django, & REST API Development
 
-Results-driven Junior Software Developer specializing in the Pythonlanguage and Django framework. I engineer efficient, scalable, and user-centric web applications by prioritizing data integrity and codemaintainability.
+Results-driven Junior Software Developer specializing in the Python language and Django framework. I engineer efficient, scalable, and user-centric web applications by prioritizing data integrity and code maintainability.
 
-My technical foundation is rooted in modern Software DevelopmentLifecycle (SDLC) fundamentals, including Object-OrientedProgramming (OOP), Unit Testing (Pytest), SQL/PostgreSQL, and robust version control using Git/GitHub. I've also completed training and practical exercises in AWS cloud computing. 
+My technical foundation is rooted in modern Software Development Lifecycle (SDLC) fundamentals, including Object-Oriented Programming (OOP), Unit Testing (Pytest), SQL/PostgreSQL, and robust version control using Git/GitHub. I've also completed training and practical exercises in AWS cloud computing. 
 
 Applied Expertise: Skincare Filter Web Application
 Current application of skills in the comprehensive development of a Skincare Filter Web Application:
@@ -14,7 +14,7 @@ Design and connect the Django backend with dual database systems (SQLite for dev
 Analyze and process cosmetic ingredients against user input todetect potential allergens. Focus on performance by building dynamic UI components, integrating data validation, and defining API structures to ensure high data integrity and scalability.
 
 Transferable Skills & Goal
-I leverage prior high-precision operational experience to excel at analyzing complex processes, optimizing workflows, and ensuring quality and accuracy under pressure.
+Leveraging prior high-precision operational experience to excel at analyzing complex processes, optimizing workflows, and ensuring quality and accuracy under pressure.
 
 I am actively seeking entry-level software development roles to contribute to impactful projects, refine my expertise in backend and API design, and thrive within a collaborative engineering team.
 
