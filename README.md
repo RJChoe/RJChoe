@@ -50,6 +50,7 @@ Proficient and actively building expertise in the following tools and technologi
 <!--
 <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)"/>
+<img src="[https://codecov.io/gh/RJChoe/filter-project/branch/main/graph/badge.svg](https://codecov.io/gh/RJChoe/filter-project)"/>
 -->
 ---
 <!--
@@ -84,7 +85,6 @@ All projects are built with **full CI/CD pipelines** using **GitHub Actions** fo
 > * Authored and executed custom unit tests to rigorously verify core functionality, ensuring high application reliability and data accuracy.
 > * Applied Object-Oriented Programming (OOP) and modular design principles to improve code readability, maintainability, and system scalability.
 > * Utilized the nltk Python library for efficient keyword parsing and implemented exception handling for a robust and reliable user experience.
-> * Managed the entire development workflow using Git/GitHub and VS Code for version control and issue tracking.
 > * **Core Tech Stack:** Python, REST APIs, JSON, Tkinter, nltk, Unit Testing, Git/GitHub, VS Code 
 
 ---
