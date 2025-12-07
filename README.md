@@ -91,6 +91,6 @@ All projects are built with **full CI/CD pipelines** using **GitHub Actions** fo
 
 ### 📬 Let's Connect
 
-I am actively seeking entry-level software development roles to contribute to impactful projects, refine my expertise in backend and API design, and thrive within a collaborative engineering team. I welcome collaboration and new challenges!
+Actively pursuing entry-level roles in software development, backend engineering, or API development. Open to connecting regarding opportunities that involve collaborative problem-solving, building scalable systems, and contributing to impactful technical projects.
 
 **<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> (www.linkedin.com/in/rebecca-j-simpson-327999326)**
