@@ -78,4 +78,4 @@ All projects are built with **full CI/CD pipelines** using **GitHub Actions** fo
 
 I am actively seeking software development and web application development opportunities. I welcome collaboration and new challenges!
 
-** <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> (www.linkedin.com/in/rebecca-j-simpson-327999326) **
+**<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> (www.linkedin.com/in/rebecca-j-simpson-327999326)**
